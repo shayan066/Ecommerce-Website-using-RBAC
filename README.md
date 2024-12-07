@@ -70,4 +70,4 @@ git clone- https://github.com/shayan066/Ecommerce-Website-using-RBAC.git
 ![Product Page](https://github.com/user-attachments/assets/639619d5-9f02-4957-9028-ce366133199c)
 
 ## Note-
--- The project is currently under development, with ongoing efforts to introduce additional functionalities and enhance user-friendliness for an improved overall experience.
+- The project is currently under development, with ongoing efforts to introduce additional functionalities and enhance user-friendliness for an improved overall experience.
