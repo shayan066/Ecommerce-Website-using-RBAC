@@ -14,7 +14,7 @@ The project is a full-stack MERN website with role-based login functionality for
 - User Perform- Read Data, Add to Cart Product, Buy Product
 - Integration of Payment Gateway to purchase Product (Razorpay)
 
-## Requirements FulFiled
+## Requirements Fulfilled
 - User Management
 - Role Management
 - Dynamic Permissions
