@@ -52,15 +52,15 @@ git clone- https://github.com/shayan066/Ecommerce-Website-using-RBAC.git
 ## Screenshots
 
 **Signup Page**
-![Screenshot (8)](https://github.com/user-attachments/assets/3be19d45-3533-4541-b6da-75093cec87e9)
+![Signup Page](https://github.com/user-attachments/assets/3770edf9-3c07-47de-a4fd-9efdb979cf90)
 
 **Login Page**
-![Screenshot (7)](https://github.com/user-attachments/assets/2a1a1450-6daf-48bd-a3c7-8a23319bd272)
+![Login Page](https://github.com/user-attachments/assets/865d2f1f-c972-4f8e-a119-a91be32cb74c)
 
 **User Page**
-![Screenshot (6)](https://github.com/user-attachments/assets/93ecfe30-7347-4b46-961e-433484802e3e)
+![User Page](https://github.com/user-attachments/assets/098c58ad-fba2-422b-ab35-0c268d878ea5)
 
 **Product Page**
-![Screenshot (10)](https://github.com/user-attachments/assets/c97358b7-2399-42b5-a308-ca11f2953900)
+![Product Page](https://github.com/user-attachments/assets/639619d5-9f02-4957-9028-ce366133199c)
 
 
