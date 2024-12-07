@@ -1,4 +1,4 @@
-![Screenshot (6)](https://github.com/user-attachments/assets/93ecfe30-7347-4b46-961e-433484802e3e)
+
 # Ecommerce Website Using RBAC
 
 The project is a full-stack MERN website with role-based login functionality for sellers and users, providing distinct access and capabilities. Sellers can perform CRUD (Create, Read, Update, and Delete) operations on products and also add products to their cart. Users, on the other hand, can only browse the available products and add them to their cart. The application includes seamless payment integration with Razorpay for secure transactions. To ensure robust authentication and authorization, the application utilizes JWT tokens, which are configured to expire after 1 hour to enhance security. User and seller data, along with authentication details, are securely stored in the database, ensuring efficient role management and data integrity. Which shows the best representation of RBAC. 
@@ -51,5 +51,16 @@ git clone- https://github.com/shayan066/Ecommerce-Website-using-RBAC.git
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+**Signup Page**
+![Screenshot (8)](https://github.com/user-attachments/assets/3be19d45-3533-4541-b6da-75093cec87e9)
+
+**Login Page**
+![Screenshot (7)](https://github.com/user-attachments/assets/2a1a1450-6daf-48bd-a3c7-8a23319bd272)
+
+**User Page**
+![Screenshot (6)](https://github.com/user-attachments/assets/93ecfe30-7347-4b46-961e-433484802e3e)
+
+**Product Page**
+![Screenshot (10)](https://github.com/user-attachments/assets/c97358b7-2399-42b5-a308-ca11f2953900)
+
 
