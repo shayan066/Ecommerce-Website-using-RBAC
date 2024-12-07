@@ -3,15 +3,23 @@
 
 The project is a full-stack MERN website with role-based login functionality for sellers and users, providing distinct access and capabilities. Sellers can perform CRUD (Create, Read, Update, and Delete) operations on products and also add products to their cart. Users, on the other hand, can only browse the available products and add them to their cart. The application includes seamless payment integration with Razorpay for secure transactions. To ensure robust authentication and authorization, the application utilizes JWT tokens, which are configured to expire after 1 hour to enhance security. User and seller data, along with authentication details, are securely stored in the database, ensuring efficient role management and data integrity. Which shows the best representation of RBAC. 
 
-
 ## Features
 
+- Creativity and Beautiful Design
+- Fully Responsive and Functional
 - Authentication
 - Login/Signup
 - Role- Admin, User
 - Admin Perform- (CRUD Operation)
 - User Perform- Read Data, Add to Cart Product, Buy Product
 - Integration of Payment Gateway to purchase Product (Razorpay)
+
+## Requirements FulFiled
+- User Management
+- Role Management
+- Dynamic Permissions
+- Custom API Simulation
+
 
 ## Build With
 
