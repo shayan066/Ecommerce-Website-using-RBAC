@@ -33,7 +33,7 @@ The project is a full-stack MERN website with role-based login functionality for
 
 ##
 
-## Project is in under Construction for more functionality and user Friendly
+## The project is currently under development, with ongoing efforts to introduce additional functionalities and enhance user-friendliness for an improved overall experience.
 
 ## Feedback
 
