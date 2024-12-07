@@ -31,10 +31,6 @@ The project is a full-stack MERN website with role-based login functionality for
 - Tailwind CSS
 - RestFul APIs
 
-##
-
-## The project is currently under development, with ongoing efforts to introduce additional functionalities and enhance user-friendliness for an improved overall experience.
-
 ## Feedback
 
 If you have any feedback, please reach out to us at shayanansari598@gmail.com
@@ -73,4 +69,4 @@ git clone- https://github.com/shayan066/Ecommerce-Website-using-RBAC.git
 ## Product Page
 ![Product Page](https://github.com/user-attachments/assets/639619d5-9f02-4957-9028-ce366133199c)
 
-
+## The project is currently under development, with ongoing efforts to introduce additional functionalities and enhance user-friendliness for an improved overall experience.
